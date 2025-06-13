@@ -56,6 +56,7 @@ Strengthening weak areas by adding players who fill gaps in the team’s overall
 
 
 🔹Conclusion:
+
 This data-centric approach will enable Royal Challengers Bangalore to:
 
 ✅ Select players who align with their strategic goals
