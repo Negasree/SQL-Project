@@ -26,7 +26,7 @@ To provide actionable strategies and recommendations to strengthen RCB’s appro
 
 🔹Tools Used:
 
-SQL Workbench: To perform data extraction and transformation with complex SQL queries.
+MySQL Workbench: To perform data extraction and transformation with complex SQL queries.
 
 Microsoft Excel: To visualize data, create charts, and perform in-depth analysis.
 
